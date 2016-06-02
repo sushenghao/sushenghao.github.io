@@ -1,1 +1,0 @@
-jQuery.namespace=function(e,t){var n=e.split("."),r=0,i;e.indexOf(".")==0&&(r=1,t=t||jQuery),t=t||window;for(;i=n[r++];)t[i]||(t[i]={}),t=t[i];return t};
