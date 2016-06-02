@@ -1,0 +1,27 @@
+{
+  "name": "li",
+  "version": "1.0.1",
+  "description": "Parse the Links header format and return a javascript object.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfromaniello/li.git"
+  },
+  "keywords": [
+    "links",
+    "http"
+  ],
+  "author": "José F. Romaniello <jfromaniello@gmail.com> (http://joseoncode.com)",
+  "contributors": [
+    "Ron Waldon <jokeyrhyme@gmail.com> (http://jokeyrhy.me/)",
+    "JAM (https://github.com/jamc)"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.7.4",
+    "chai": "~1.9.0"
+  }
+}
